@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MicroNetCore.Probes.Core
+namespace MicroNetCore.Probes
 {
     public sealed class HttpProbeMiddleware<TProbeService>
         where TProbeService : IProbeService

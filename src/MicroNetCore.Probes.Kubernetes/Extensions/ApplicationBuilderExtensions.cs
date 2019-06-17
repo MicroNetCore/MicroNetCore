@@ -1,5 +1,4 @@
-﻿using MicroNetCore.Probes.Core;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 
 namespace MicroNetCore.Probes.Kubernetes.Extensions
 {

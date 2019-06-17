@@ -1,6 +1,4 @@
-﻿using MicroNetCore.Probes.Core;
-
-namespace MicroNetCore.Probes.Kubernetes
+﻿namespace MicroNetCore.Probes.Kubernetes
 {
     public interface ILivenessProbeService : IProbeService { }
 }
